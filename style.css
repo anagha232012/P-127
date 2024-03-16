@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    font-family: fantasy;
+    text-align: center;
+}
+#heading1
+{
+    color: black;
+}
+#note
+{
+    font-size: 15px;
+    color: black;
+}
+canvas
+{
+    background-color: aliceblue;
+    border:solid black;
+    border-radius: 20px;
+    border-width: 5px;
+    box-shadow: 10px 5px 5px lightblue;
+}
